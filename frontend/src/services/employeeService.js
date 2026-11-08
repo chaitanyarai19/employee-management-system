@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:3000/api';
+const API_BASE_URL = 'https://employee-management-system-b9h1.onrender.com/api';
 
 const apiRequest = async (url, options = {}) => {
     let response;
