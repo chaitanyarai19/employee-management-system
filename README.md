@@ -186,12 +186,6 @@ Backend will be available at:
 http://localhost:3000
 ```
 
-Test the health endpoint:
-
-```text
-http://localhost:3000/health
-```
-
 Test the employees API:
 
 ```text
