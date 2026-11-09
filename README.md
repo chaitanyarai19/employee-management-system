@@ -6,7 +6,6 @@ A full-stack Employee Management System built using **React.js, Node.js, Express
 
 - **Frontend:** https://employee-management-system-1-yvgq.onrender.com/
 - **Backend API:** https://employee-management-system-b9h1.onrender.com
-- **Health Check:** https://employee-management-system-b9h1.onrender.com/health
 - **Employees API:** https://employee-management-system-b9h1.onrender.com/api/employees
 
 ## ✨ Features
